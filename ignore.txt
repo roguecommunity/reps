@@ -3,4 +3,5 @@
 .project
 .classpath
 /Servers/
-.settings
+/.settings/
+/target/
